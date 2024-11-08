@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/amine/Downloads/mlflowm/mlruns/105017040593646571/c94475222c31490f9bd7f7df5e4eabc0/artifacts
+end_time: 1725351072790
+entry_point_name: ''
+experiment_id: '105017040593646571'
+lifecycle_stage: active
+run_id: c94475222c31490f9bd7f7df5e4eabc0
+run_name: awesome-stoat-424
+run_uuid: c94475222c31490f9bd7f7df5e4eabc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725351067637
+status: 3
+tags: []
+user_id: amine

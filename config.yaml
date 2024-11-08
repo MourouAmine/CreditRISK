@@ -1,0 +1,19 @@
+model:
+  path: "C:\\Users\\amine\\Downloads\\Formations\\Application of AI for Predictive Maintenance\\Notebooks\\modelreg.joblib"
+
+tracking_uri: "http://127.0.0.1:5001"
+
+experiment:
+  name: "Credit Risk"
+
+data:
+  test_data_path: "C:\\Users\\amine\\Downloads\\datat.csv"
+  target_path: "C:\\Users\\amine\\Downloads\\target.csv"
+  data_path: "C:\\Users\\amine\\Downloads\\Formations\\Application of AI for Predictive Maintenance\\Notebooks\\dataset_pretraite.csv"
+
+metrics:
+  save_path: "C:\\Users\\amine\\Downloads\\mlflowm\\metrics.json"
+  plot_path: "C:\\Users\\amine\\Downloads\\mlflowm\\loss_curve.png"
+  plot_path1: "C:\\Users\\amine\\Downloads\\mlflowm\\loss_curve1.png"
+  plot_path2: "C:\\Users\\amine\\Downloads\\mlflowm\\loss_curve2.png"
+

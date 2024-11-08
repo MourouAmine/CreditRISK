@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/402824578993439196/bc4003264f8247f89330801fa168db13/artifacts
+end_time: 1725825364426
+entry_point_name: ''
+experiment_id: '402824578993439196'
+lifecycle_stage: active
+run_id: bc4003264f8247f89330801fa168db13
+run_name: Check 13
+run_uuid: bc4003264f8247f89330801fa168db13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725825363460
+status: 4
+tags: []
+user_id: amine

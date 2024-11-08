@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/402824578993439196/fa4bcc2d1a074b55ac5ee8f1717a1e47/artifacts
+end_time: 1725612998325
+entry_point_name: ''
+experiment_id: '402824578993439196'
+lifecycle_stage: active
+run_id: fa4bcc2d1a074b55ac5ee8f1717a1e47
+run_name: gentle-owl-623
+run_uuid: fa4bcc2d1a074b55ac5ee8f1717a1e47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725612997395
+status: 3
+tags: []
+user_id: amine

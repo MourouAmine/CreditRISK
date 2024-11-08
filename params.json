@@ -1,0 +1,11 @@
+{
+    "booster": "gbtree",
+    "lambda": 0.1718855382973029,
+    "alpha": 
+    0.14716827910860847,
+    "eta": 0.09915043229588832,
+    "max_depth": 8,
+    "gamma": 0.1277896644781995,
+    "grow_policy": "depthwise",
+    "n_estimators": 20
+}
